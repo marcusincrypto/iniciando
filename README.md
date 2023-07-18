@@ -1,0 +1,2 @@
+# iniciando
+primeiros codigos 
